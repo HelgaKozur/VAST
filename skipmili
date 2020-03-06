@@ -32,7 +32,7 @@
       <Creatives>
         <Creative id="5480" sequence="1" adId="2447226">
           <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
-          <Linear skipoffset="00:00:00.1474">
+          <Linear skipoffset="00:00:10">
             <Duration>00:00:20.475</Duration>
             <MediaFiles>
               <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="H.264">
